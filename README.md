@@ -1,2 +1,1 @@
-# kodistuff
-my kodi repo, all my testing stuff will be in here.
+Kudos to whufclee who created the original work but I'm forking it for my own special purposes mwaaahaaahaa
